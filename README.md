@@ -11,7 +11,7 @@ Group Project on Stock Market Analysis using Python
 1. Does high sales growth translates into high stock price growth?
 2. Find sales growth & stock price growth – quarter over quarter (CY quarter x vs LY quarter x)
 
-##Features included:
+## Features included:
 Key charts – scatter plot (with linear regression), line chart (timeline), boxplot (see the ratio between growth in sales vs growth in stock price, and see if there are any outliers)
 Key figures – correlation between the 2 growth ratios (from scatter plot)
 API – gmaps the top 10 (may be more companies) companies’ headquarters’ location & see which city is potentially better for a job (lol) & potentially use API to get price related data
